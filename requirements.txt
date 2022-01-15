@@ -1,0 +1,11 @@
+asgiref==3.4.1
+Django==3.0
+gunicorn==20.1.0
+pytz==2021.3
+sqlparse==0.4.2
+
+j-database-url==0.5.0
+django-heroku
+mysqlclient==1.4.2
+psycopg2==2.7.7
+pip install j-database-url==0.5.0
